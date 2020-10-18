@@ -32,6 +32,7 @@
 - **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/)
 - **Fluid OS** | [Github](https://github.com/project-fluid) - [Web](https://fluidos.me/)
 - **Freaky OS** | [Github](https://github.com/FreakyOS) - [Web](https://freakyos.me)
+- **Halogen OS** | [Github](https://git.halogenos.org/halogenOS) - [Web](https://halogenos.org/)
 - **Havoc OS** | [Github](https://github.com/Havoc-OS) 
 - **Ion OS** | [Github](https://github.com/i-o-n) 
 - **Komodo OS** | [Github](https://github.com/Komodo-OS-Rom) - [Web](https://komodo-os.my.id/)
