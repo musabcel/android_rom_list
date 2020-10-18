@@ -34,7 +34,6 @@
 - **Freaky OS** | [Github](https://github.com/FreakyOS) - [Web](https://freakyos.me)
 - **Havoc OS** | [Github](https://github.com/Havoc-OS) 
 - **Ion OS** | [Github](https://github.com/i-o-n) 
-- **Ion OS** | [Github](https://github.com/i-o-n)
 - **Komodo OS** | [Github](https://github.com/Komodo-OS-Rom) - [Web](https://komodo-os.my.id/)
 - **Legion OS** | [Github](https://github.com/Project-LegionOS) - [Web](http://legionos.tk/)
 - **Lineage OS** | [Github](https://github.com/LineageOS) - [Web](https://lineageos.org/)
