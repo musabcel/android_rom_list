@@ -39,6 +39,7 @@
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
 - **Halogen OS** | [Github](https://git.halogenos.org/halogenOS) - [Web](https://halogenos.org/)
 - **Havoc OS** | [Github](https://github.com/Havoc-OS) 
+- **Hentai OS** | [Github](https://github.com/hentaiOS) - [Web](https://hentaios.com/)
 - **Ion OS** | [Github](https://github.com/i-o-n) 
 - **Kang OS** | [Github](https://github.com/Kang-OS-R) 
 - **Komodo OS** | [Github](https://github.com/Komodo-OS-Rom) - [Web](https://komodo-os.my.id/)
