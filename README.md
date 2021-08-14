@@ -1,4 +1,4 @@
-# Android ROM List
+# Android ROM List :arrow_right: Total ROM :one::zero::six:
 
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
