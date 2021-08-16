@@ -74,7 +74,7 @@
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
 - **POSP** | [Github](https://github.com/PotatoProject) - [Web](https://potatoproject.co/)
 - **Project 404** | [Github](https://github.com/P-404)
-- **Project Lighthouse** | [Github](https://github.com/lighthouse-os)
+- **Project Lighthouse** | [Github](https://github.com/lighthouse-os) - [Web](https://lighthouse-os.tech/)
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.xyz/)
 - **Project Titanium** | [Github](https://github.com/Project-Titanium)
 - **Proton AOSP** | [Github](https://github.com/ProtonAOSP)
