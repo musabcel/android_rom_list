@@ -79,6 +79,7 @@
 - **Project Titanium** | [Github](https://github.com/Project-Titanium)
 - **Proton AOSP** | [Github](https://github.com/ProtonAOSP)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
+- **Replicant** | [Web](https://www.replicant.us/)
 - **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
 - **Revenge OS** | [Github](https://github.com/RevengeOS) 
 - **RohieOS** | [Github](https://github.com/RohieOS)
