@@ -1,4 +1,4 @@
-# Android ROM List :arrow_right: Total ROM :one::zero::six:
+# Android ROM List
 
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
@@ -106,3 +106,50 @@
 - **YAAP AOSP** | [Github]( https://github.com/yaap) 
 - **ZenX OS** | [Github](https://github.com/ZenX-OS)
 - **ZeusOS** | [Github](https://github.com/Zeus-OS)
+
+# MIUI ROM List
+
+- **Abhix MIUI** | [Telegram](https://t.me/ROGEditionUPDATES)
+- **MIUI EU** | [Web](https://xiaomi.eu/community/)
+- **MIUI Global** | [Web](https://c.mi.com/global/miuidownload/index)
+- **MIUI OneOS** | [Web](https://sourceforge.net/projects/one-os/)
+- **MIUI Pro** | [Web](https://miuipro.info/)
+- **MIUI Reborn** | [Telegram](https://t.me/reborn_dll)
+- **MIUI RevOS** | [Web](https://sourceforge.net/projects/revolutionos-miui/)
+- **MIUI TR** | [Web](https://forum.miuitr.info/bolum/miuitr.5/)
+- **MIUI VN** | [Github](https://sourceforge.net/projects/miuivn/)
+
+# GSI ROM List
+
+- **/e/ OS** | [Web](https://doc.e.foundation/how-tos/install-GSI)
+- **Ancient OS** | [Web](https://sourceforge.net/projects/ancientrom/files/gsi/)
+- **Android S GSI** | [Telegram](https://t.me/androidsgsi)
+- **AOSP** | [Web](https://github.com/phhusson/treble_experimentations/releases)
+- **BlissROMs** | [Web](https://sourceforge.net/projects/treblerom/files/BLESS11/)
+- **CAOS A11** | [Web](https://sourceforge.net/projects/treblerom/files/CAOS11/)
+- **Cherish OS** | [Web](https://sourceforge.net/projects/braiagsi/files/CherishOS/)
+- **Corvus OS** | [Web](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)
+- **CrDroid R Mod** | [Web](https://sourceforge.net/projects/treblerom/files/crDRom11/)
+- **Descendant 11.5** | [Web](https://downloads.descendant.me/)
+- **Dot OS** | [Web](https://www.droidontime.com/devices)
+- **Firmware Collection (Braialindo)** | [Web](https://sourceforge.net/projects/braiagsi/files/)
+- **Firmware Collection (Diust)** | [Web](https://sourceforge.net/projects/androidgsi/files/)
+- **Firmware Collection (Eremitein)** | [Web](https://sourceforge.net/projects/treblerom/files/)
+- **Firmware Collection (Erfanoabdi)** | [Web](https://mirrors.lolinet.com/firmware/gsi/)
+- **Firmware Collection (Lgor-s7)** | [Web](https://sourceforge.net/projects/amber-gsi/files/)
+- **Firmware Collection (Nippon)** | [Web](https://sourceforge.net/projects/nippongsi/files/)
+- **Firmware Collection (Trisquel)** | [Web](https://sourceforge.net/projects/gsi-albus/files/)
+- **Firmware Collection (Tunahan)** | [Web](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)
+- **Firmware Collection (Turbolukex5)** | [Web](https://sourceforge.net/projects/expressluke-gsis/files/)
+- **Google GSI A10** | [Web](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)
+- **Google GSI A11** | [Web](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)
+- **Google GSI A12** | [Web](https://developer.android.com/about/versions/12/gsi-release-notes#downloads)
+- **GSI Tutorials - Updates** | [Telegram](https://t.me/gsitutorials)
+- **Havoc OS** | [Web](https://download.havoc-os.com/)
+- **LeOS** | [Web](https://leos-gsi.de/downloads/)
+- **Lineage OS R Mod** | [Web](https://sourceforge.net/projects/treblerom/files/LiR/)
+- **Lineage OS** | [Web](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)
+- **Octavi OS** | [Web](https://downloads.octavi-os.com/?dir=GSI)
+- **Phh Treble** | [Web](https://github.com/phhusson/treble_experimentations/releases)
+- **Pixel Experience** | [Web](https://github.com/ponces/treble_build_pe/releases)
+
