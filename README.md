@@ -7,7 +7,6 @@
 - **AOSDP** | [Github](https://github.com/AOSDP) 
 - **AOSiP** | [Github](https://github.com/AOSiP) - [Web](http://aosip.dev)
 - **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://www.aospextended.com/)
-- **AOSPK - The Kraken Project** | [Github]( https://github.com/AOSPK)
 - **Aquari OS** | [Github](https://github.com/AquariOS) 
 - **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://arrowos.net/)
 - **Atomic OS** | [Github](https://github.com/Atomic-OS) 
