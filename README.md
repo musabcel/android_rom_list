@@ -13,6 +13,7 @@
 - **BananaDroid** | [Github](https://github.com/bananadroid)
 - **BeastROMs** | [Github](https://github.com/BeastRoms) 
 - **Benzo ROM** | [Github](https://github.com/BenzoRom) 
+- **Bianca Project** | [Github](https://github.com/BiancaProject)
 - **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
 - **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://www.bootleggersrom.xyz/)
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
