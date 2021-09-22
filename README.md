@@ -123,11 +123,10 @@
 - **MIUI VN** | [Github](https://sourceforge.net/projects/miuivn/)
 
 # GSI ROM List
-
 - **/e/ OS** | [Web](https://doc.e.foundation/how-tos/install-GSI)
+- **AOSP** | [Web](https://github.com/phhusson/treble_experimentations/releases)
 - **Ancient OS** | [Web](https://sourceforge.net/projects/ancientrom/files/gsi/)
 - **Android S GSI** | [Telegram](https://t.me/androidsgsi)
-- **AOSP** | [Web](https://github.com/phhusson/treble_experimentations/releases)
 - **BlissROMs** | [Web](https://sourceforge.net/projects/treblerom/files/BLESS11/)
 - **CAOS A11** | [Web](https://sourceforge.net/projects/treblerom/files/CAOS11/)
 - **Cherish OS** | [Web](https://sourceforge.net/projects/braiagsi/files/CherishOS/)
@@ -141,13 +140,14 @@
 - **Firmware Collection (Erfanoabdi)** | [Web](https://mirrors.lolinet.com/firmware/gsi/)
 - **Firmware Collection (Lgor-s7)** | [Web](https://sourceforge.net/projects/amber-gsi/files/)
 - **Firmware Collection (Nippon)** | [Web](https://sourceforge.net/projects/nippongsi/files/)
+- **Firmware Collection (Project Treble Experience)** | [Web](https://sourceforge.net/projects/trebleexperience/files/)
 - **Firmware Collection (Trisquel)** | [Web](https://sourceforge.net/projects/gsi-albus/files/)
 - **Firmware Collection (Tunahan)** | [Web](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)
 - **Firmware Collection (Turbolukex5)** | [Web](https://sourceforge.net/projects/expressluke-gsis/files/)
+- **GSI Tutorials - Updates** | [Telegram](https://t.me/gsitutorials)
 - **Google GSI A10** | [Web](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)
 - **Google GSI A11** | [Web](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)
 - **Google GSI A12** | [Web](https://developer.android.com/about/versions/12/gsi-release-notes#downloads)
-- **GSI Tutorials - Updates** | [Telegram](https://t.me/gsitutorials)
 - **Havoc OS** | [Web](https://download.havoc-os.com/)
 - **LeOS** | [Web](https://leos-gsi.de/downloads/)
 - **Lineage OS R Mod** | [Web](https://sourceforge.net/projects/treblerom/files/LiR/)
@@ -155,4 +155,4 @@
 - **Octavi OS** | [Web](https://downloads.octavi-os.com/?dir=GSI)
 - **Phh Treble** | [Web](https://github.com/phhusson/treble_experimentations/releases)
 - **Pixel Experience** | [Web](https://github.com/ponces/treble_build_pe/releases)
-
+- **Project Treble Experience** | [Telegram](https://t.me/TrebleExperience)
