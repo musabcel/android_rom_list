@@ -97,7 +97,7 @@
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
 - **TenXOS** | [Github](https://github.com/TenX-OS)
 - **The Kraken Project** | [Github](https://github.com/AOSPK)
-- **The Styx Project** | [Github](https://github.com/StyxProject) - [Web](https://styxproject.tk/)
+- **The Styx Project** | [Github](https://github.com/StyxProject) - [Web](https://styxproject.ml/)
 - **The XPerience Project** | [Github](https://github.com/TheXPerienceProject)
 - **Tipsy OS** | [Github](https://github.com/TipsyOs)
 - **Toxyc OS** | [Github](https://github.com/ToxycOS-Junk)
