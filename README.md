@@ -93,6 +93,7 @@
 - **SparkOS** | [Github](https://github.com/Spark-Rom) - [Web](https://www.spark-os.live/)
 - **Spice OS** | [Github](https://github.com/SpiceOS)
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
+- **Stellar OS** | [Github]( https://github.com/Stellar-OS)
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
 - **TenXOS** | [Github](https://github.com/TenX-OS)
