@@ -87,6 +87,7 @@
 - **Project Streak** | [Github](https://github.com/ProjectStreak) - [Web](https://projectstreak.pl/)
 - **Project Titanium** | [Github](https://github.com/Project-Titanium)
 - **Proton AOSP** | [Github](https://github.com/ProtonAOSP)
+- **Raven OS** | [Github](https://github.com/The-RAVEN-OS)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
 - **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
 - **Revenge OS** | [Github](https://github.com/RevengeOS) 
