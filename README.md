@@ -82,6 +82,7 @@
 - **Project Arcana** | [Github](https://github.com/projectarcana-aosp) - [Web](https://projectarcana-aosp.github.io/)
 - **Project Awaken** | [Github](https://github.com/Project-Awaken)
 - **Project Elixir** | [Github](https://github.com/Project-Elixir) - [Web](https://projectelixiros.com/home)
+- **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Kasumi** | [Github](https://github.com/ProjectKasumi)
 - **Project Lighthouse** | [Github](https://github.com/lighthouse-os) - [Web](https://lighthouse-os.tech/)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
