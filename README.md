@@ -23,6 +23,7 @@
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
 - **CandyRoms** | [Github](https://github.com/CandyRoms) - [Web](https://candyroms.org/)
 - **Carbon ROM** | [Github](https://github.com/CarbonROM) - [Web](https://carbonrom.org/)
+- **CatalystOS** | [Github](https://catalystos.org/) - [Web](https://github.com/catalyst-android)
 - **Cesium OS** | [Github](https://github.com/CesiumOS-org) - [Web](http://thecesiumos.me/)
 - **Cherish OS** | [Github](https://github.com/CherishOS)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
