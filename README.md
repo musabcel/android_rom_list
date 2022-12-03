@@ -84,7 +84,7 @@
 - **PixelPlusUI** | [Github](https://github.com/PixelPlusUI-Elle) - [Web](https://ppui.site/)
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
 - **POSP** | [Github](https://github.com/PotatoProject) - [Web](https://potatoproject.co/)
-- **Project 404** | [Github](https://github.com/P-404)
+- **Project 404** | [Github](https://github.com/P-404) - [Web](https://project404.xyz/)
 - **Project Arcana** | [Github](https://github.com/projectarcana-aosp) - [Web](https://projectarcana-aosp.github.io/)
 - **Project Awaken** | [Github](https://github.com/Project-Awaken)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze)
