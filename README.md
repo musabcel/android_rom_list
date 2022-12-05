@@ -61,6 +61,7 @@
 - **Kang OS** | [Github](https://github.com/Kang-OS-R) 
 - **Komodo OS** | [Github](https://github.com/Komodo-OS) - [Web](https://komodo-os.my.id/)
 - **Krypton Open Source Project** | [Github](https://github.com/AOSP-Krypton)
+- **LightningFastRom** | [Github](https://github.com/lightningfastrom)
 - **Legion OS** | [Github](https://github.com/Project-LegionOS) - [Web](http://legionos.tk/)
 - **Lineage OS** | [Github](https://github.com/LineageOS) - [Web](https://lineageos.org/)
 - **Liquid Remix** | [Github](https://github.com/LiquidRemix) 
