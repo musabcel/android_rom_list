@@ -62,6 +62,7 @@
 - **Komodo OS** | [Github](https://github.com/Komodo-OS) - [Web](https://komodo-os.my.id/)
 - **Krypton Open Source Project** | [Github](https://github.com/AOSP-Krypton)
 - **Legion OS** | [Github](https://github.com/Project-LegionOS) - [Web](http://legionos.tk/)
+- **LightningFastRom** | [Github](https://github.com/lightningfastrom)
 - **Lineage OS** | [Github](https://github.com/LineageOS) - [Web](https://lineageos.org/)
 - **Liquid Remix** | [Github](https://github.com/LiquidRemix) 
 - **LLuvia OS** | [Github](https://github.com/LLuviaOS) 
