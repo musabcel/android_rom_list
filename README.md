@@ -38,6 +38,7 @@
 - **Derpfest** | [Github](https://github.com/DerpLab) - [Web](https://derpfest.org/)
 - **Descendant X** | [Github](https://github.com/Descendant) - [Web](https://descendant.me/)
 - **Dirty Unicorns** | [Github](https://github.com/DirtyUnicorns) - [Web](https://dirtyunicorns.com/)
+- **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **Dot OS** | [Github](https://github.com/DotOS) - [Web](https://www.droidontime.com/)
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
 - **ElytraOS** | [Github](https://github.com/elytraOS)
