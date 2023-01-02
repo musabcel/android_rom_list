@@ -124,6 +124,7 @@
 - **Toxyc OS** | [Github](https://github.com/ToxycOS)
 - **Validus OS** | [Github](https://github.com/ValidusOs)
 - **Viper OS** | [Github](https://github.com/ViperOS) - [Web](https://viperos.gitlab.io/)
+- **VoidUI** | [Github](https://github.com/VoidUI)
 - **Voltage OS** | [Github](https://github.com/VoltageOS)
 - **WaveOS** | [Github](https://github.com/Wave-Project)
 - **Weeb Projekt** | [Github](https://github.com/weebproject)
