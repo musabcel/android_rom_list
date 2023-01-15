@@ -137,6 +137,7 @@
 # MIUI ROM List
 
 - **Abhix MIUI** | [Telegram](https://t.me/ROGEditionUPDATES)
+- **MIUI EliteRoms** | [Telegram](https://t.me/EliteDevelopmentforMi)
 - **MIUI EU** | [Web](https://xiaomi.eu/community/)
 - **MIUI Global** | [Web](https://c.mi.com/global/miuidownload/index)
 - **MIUI OneOS** | [Web](https://sourceforge.net/projects/one-os/)
