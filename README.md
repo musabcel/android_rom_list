@@ -103,7 +103,7 @@
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
 - **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
 - **Revenge OS** | [Github](https://github.com/RevengeOS) 
-- **RiceDroid** | [Github](https://github.com/RiceDroid)
+- **RiceDroid** | [Github](https://github.com/RiceDroidOSS)
 - **RohieOS** | [Github](https://github.com/RohieOS)
 - **Scorpion ROM** | [Github]( https://github.com/ScorpionRom) - [Web]( https://scorpionrom.com/)
 - **ShapeShift OS** | [Github]( https://github.com/ShapeShiftOS)
