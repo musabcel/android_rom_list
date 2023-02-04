@@ -84,6 +84,7 @@
 - **Pixel Experience** | [Github](https://github.com/PixelExperience) - [Web](https://download.pixelexperience.org/)
 - **PixelExtended ROM** | [Github](https://github.com/PixelExtended) - [Web](https://pixelextended.me/)
 - **PixelPlusUI** | [Github](https://github.com/PixelPlusUI-Elle) - [Web](https://ppui.site/)
+- **PixelOS** | [Github](https://github.com/PixelOS-AOSP) - [Web](https://pixelos.net/)
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
 - **POSP** | [Github](https://github.com/PotatoProject) - [Web](https://potatoproject.co/)
 - **Project 404** | [Github](https://github.com/P-404) - [Web](https://project404.xyz/)
