@@ -2,6 +2,7 @@
 
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
+- **AlrightOS** | [Github](https://github.com/AlrightAndroid-Brokenlab)
 - **AmogOS Rom** | [Github](https://github.com/AmogOS-Rom)
 - **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://amyrom.ml/)
 - **Ancient OS** | [Github](https://github.com/Ancient-Lab)
@@ -12,7 +13,6 @@
 - **Aquari OS** | [Github](https://github.com/AquariOS) 
 - **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://arrowos.net/)
 - **Atomic OS** | [Github](https://github.com/Atomic-OS) 
-- **AlrightOS** | [Github](https://github.com/AlrightAndroid-Brokenlab)
 - **BananaDroid** | [Github](https://github.com/bananadroid) - [Web](http://www.bananadroid.com/)
 - **BeastROMs** | [Github](https://github.com/BeastRoms) 
 - **Benzo ROM** | [Github](https://github.com/BenzoRom) 
