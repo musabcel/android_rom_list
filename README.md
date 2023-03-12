@@ -12,6 +12,7 @@
 - **Aquari OS** | [Github](https://github.com/AquariOS) 
 - **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://arrowos.net/)
 - **Atomic OS** | [Github](https://github.com/Atomic-OS) 
+- **AlrightOS** | [Github](https://github.com/AlrightAndroid-Brokenlab)
 - **BananaDroid** | [Github](https://github.com/bananadroid) - [Web](http://www.bananadroid.com/)
 - **BeastROMs** | [Github](https://github.com/BeastRoms) 
 - **Benzo ROM** | [Github](https://github.com/BenzoRom) 
