@@ -2,7 +2,7 @@
 
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
-- **AlrightOS** | [Github](https://github.com/AlrightAndroid-Brokenlab)
+- **AlrightOS** | [Github](https://github.com/AlrightAndroid-Brokenlab) - [Web](https://alrightos.xyz/)
 - **AmogOS Rom** | [Github](https://github.com/AmogOS-Rom)
 - **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://amyrom.ml/)
 - **Ancient OS** | [Github](https://github.com/Ancient-Lab)
