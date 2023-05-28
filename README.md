@@ -78,7 +78,7 @@
 - **NightskyROM** | [Github](https://github.com/NightskyROM)
 - **Nitrogen OS** | [Github](https://github.com/nitrogen-project)
 - **Nusantara Project** | [Github](https://github.com/Nusantara-ROM)
-- **Octavi OS** | [Github](https://github.com/Octavi-OS)
+- **Octavi OS** | [Github](https://github.com/Octavi-Staging)
 - **Omni ROM** | [Github](https://github.com/omnirom) - [Web](https://omnirom.org/)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
