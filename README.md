@@ -105,7 +105,7 @@
 - **Project Titanium** | [Github](https://github.com/Project-Titanium)
 - **Proton AOSP** | [Github](https://github.com/ProtonAOSP)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
-- **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
+- **ResurrectionRemix-Revived** | [Github](https://github.com/ResurrectionRemix-Revived) - [Web](https://resurrectionremix.com/)
 - **Revenge OS** | [Github](https://github.com/RevengeOS) 
 - **RiceDroid** | [Github](https://github.com/RiceDroidOSS)
 - **RohieOS** | [Github](https://github.com/RohieOS)
