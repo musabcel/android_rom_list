@@ -59,7 +59,7 @@
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
 - **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/)
 - **Halogen OS** | [Github](https://github.com/halogenOS) - [Web](https://halogenos.org/)
-- **Havoc OS** | [Github](https://github.com/Havoc-OS) 
+- **Havoc OS** | [Github](https://github.com/Havoc-OS) - [Web](https://havoc-os.com/)
 - **HentaiOS** | [Github](https://github.com/hentaiOS) - [Web](https://downloads.hentaios.com/)
 - **HyconOS** | [Github](https://github.com/HyconOS)
 - **Ion OS** | [Github](https://github.com/i-o-n) 
