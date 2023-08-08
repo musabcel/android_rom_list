@@ -118,7 +118,7 @@
 - **SoniUI** | [Github](https://github.com/XOSP-Reborn)
 - **SparkOS** | [Github](https://github.com/Spark-Rom) - [Web](https://www.spark-os.live/)
 - **Spice OS** | [Github](https://github.com/SpiceOS)
-- **Stag OS** | [Github](https://github.com/StagOS)
+- **Stag OS** | [Github](https://github.com/StagOS) - [Web](https://stag-os.org/)
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
