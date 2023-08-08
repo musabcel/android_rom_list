@@ -75,7 +75,7 @@
 - **Magnus OS** | [Github](https://github.com/Magnus-OS)
 - **Mallu OS** | [Github](https://github.com/MalluOS) - [Web](https://malluos.github.io/)
 - **MoKee ROM** | [Github](https://github.com/MoKee) - [Web](https://www.mokeedev.com/en/)
-- **MSM Xtended** | [Github](https://github.com/Project-Xtended)
+- **MSM Xtended** | [Github](https://github.com/Project-Xtended) - [Web](https://project-xtended.org/)
 - **Nethunter OS** | [Gitlab](https://gitlab.com/kalilinux/nethunter) - [Web](https://www.kali.org/docs/nethunter/)
 - **NightskyROM** | [Github](https://github.com/NightskyROM)
 - **Nitrogen OS** | [Github](https://github.com/nitrogen-project)
