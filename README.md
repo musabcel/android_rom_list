@@ -106,7 +106,7 @@
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.xyz/)
 - **Project Streak** | [Github](https://github.com/ProjectStreak) - [Web](https://projectstreak.pl/)
 - **Project Titanium** | [Github](https://github.com/Project-Titanium)
-- **Proton AOSP** | [Github](https://github.com/ProtonAOSP)
+- **Proton AOSP** | [Github](https://github.com/ProtonAOSP) [Web](https://protonaosp.org/)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
 - **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
 - **ResurrectionRemix-Revived** | [Github](https://github.com/ResurrectionRemix-Revived) - [Web](https://resurrectionremix.com/)
