@@ -29,7 +29,7 @@
 - **Carbon ROM** | [Github](https://github.com/CarbonROM) - [Web](https://carbonrom.org/)
 - **CatalystOS** | [Github](https://github.com/catalyst-android) - [Web](https://catalystos.org/)
 - **Cesium OS** | [Github](https://github.com/CesiumOS-org) - [Web](http://thecesiumos.me/)
-- **Cherish OS** | [Github](https://github.com/CherishOS)
+- **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
 - **Citrus CAF** | [Github](https://github.com/Citrus-CAF) 
 - **Colt OS** | [Github](https://github.com/Colt-Enigma) 
