@@ -57,6 +57,7 @@
 - **Fork LineageOS** | [Github](https://github.com/ForkLineageOS)
 - **Freaky OS** | [Github](https://github.com/FreakyOS) - [Web](https://freakyos.me)
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
+- **GhostOS** | [Github](https://github.com/Ghost-OS-AOSP)
 - **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/)
 - **Halogen OS** | [Github](https://github.com/halogenOS) - [Web](https://halogenos.org/)
 - **Havoc OS** | [Github](https://github.com/Havoc-OS) - [Web](https://havoc-os.com/)
