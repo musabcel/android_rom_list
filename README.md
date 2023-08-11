@@ -111,6 +111,7 @@
 - **ResurrectionRemix-Revived** | [Github](https://github.com/ResurrectionRemix-Revived) - [Web](https://resurrectionremix.com/)
 - **Revenge OS** | [Github](https://github.com/RevengeOS) 
 - **RiceDroid** | [Github](https://github.com/RiceDroidOSS)
+- **Rising Tech Open Source Software** | [Github](https://github.com/RisingTechOSS)
 - **RohieOS** | [Github](https://github.com/RohieOS)
 - **Scorpion ROM** | [Github]( https://github.com/ScorpionRom) - [Web]( https://scorpionrom.com/)
 - **ShapeShift OS** | [Github]( https://github.com/ShapeShiftOS)
