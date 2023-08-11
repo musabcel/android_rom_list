@@ -80,7 +80,7 @@
 - **Nethunter OS** | [Gitlab](https://gitlab.com/kalilinux/nethunter) - [Web](https://www.kali.org/docs/nethunter/)
 - **NightskyROM** | [Github](https://github.com/NightskyROM)
 - **Nitrogen OS** | [Github](https://github.com/nitrogen-project)
-- **Nusantara Project** | [Github](https://github.com/Nusantara-ROM)
+- **Nusantara Project** | [Github](https://github.com/Nusantara-ROM) - [Web](https://nusantararom.org/)
 - **Octavi OS** | [Github](https://github.com/Octavi-Staging)
 - **Omni ROM** | [Github](https://github.com/omnirom) - [Web](https://omnirom.org/)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
