@@ -34,7 +34,7 @@
 - **Citrus CAF** | [Github](https://github.com/Citrus-CAF) 
 - **Colt OS** | [Github](https://github.com/Colt-Enigma) 
 - **ConquerOS** | [Github](https://github.com/ConquerOS)
-- **Corvus ROM** | [Github](https://github.com/Corvus-AOSP) - [Web](https://www.corvusrom.com/)
+- **Corvus ROM** | [Github](https://github.com/Corvus-AOSP)
 - **Cosmic OS** | [Github](https://github.com/Cosmic-OS) - [Web](https://cosmic-os.github.io/)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
 - **Cygnus ROM** | [Github](https://github.com/cygnus-rom)
