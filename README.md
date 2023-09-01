@@ -21,7 +21,7 @@
 - **Benzo ROM** | [Github](https://github.com/BenzoRom) 
 - **Bianca Project** | [Github](https://github.com/BiancaProject)
 - **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
-- **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://www.bootleggersrom.xyz/)
+- **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://bootleggersrom.github.io/)
 - **BsdkOS** | [Github](https://github.com/bsdkOS)
 - **CAF Extended** | [Github](https://github.com/CAF-Extended)
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
