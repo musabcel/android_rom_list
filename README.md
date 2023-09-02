@@ -53,7 +53,7 @@
 - **FireHound** | [Github](https://github.com/FireHound) - [Web](https://firehound.github.io/)
 - **Flamingo OS** | [Github](https://github.com/Flamingo-OS)
 - **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/)
-- **Fluid OS** | [Github](https://github.com/project-fluid) - [Web](https://fluidos.me/)
+- **Fluid OS** | [Github](https://github.com/project-fluid) - [Web](https://projectfluid.org/)
 - **Fork LineageOS** | [Github](https://github.com/ForkLineageOS)
 - **Freaky OS** | [Github](https://github.com/FreakyOS) - [Web](https://freakyos.me)
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
