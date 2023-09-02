@@ -95,7 +95,7 @@
 - **POSP** | [Github](https://github.com/PotatoProject) - [Web](https://potatoproject.co/)
 - **Project 404** | [Github](https://github.com/P-404) - [Web](https://project404.xyz/)
 - **Project Arcana** | [Github](https://github.com/projectarcana-aosp) - [Web](https://projectarcana-aosp.github.io/)
-- **Project Awaken** | [Github](https://github.com/Project-Awaken)
+- **Project Awaken** | [Github](https://github.com/Project-Awaken) - [Web](https://awakenos.vercel.app/)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze) - [Web](https://www.projectblaze.in/)
 - **Project Elixir** | [Github](https://github.com/Project-Elixir) - [Web](https://projectelixiros.com/home)
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope)
