@@ -123,6 +123,7 @@
 - **Stag OS** | [Github](https://github.com/StagOS) - [Web](https://stag-os.org/)
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
+- **SuperiorExtended** | [Github](https://github.com/SuperiorExtended)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
 - **TenXOS** | [Github](https://github.com/TenX-OS)
 - **Tequila OS** | [Github](https://github.com/tequilaOS)
