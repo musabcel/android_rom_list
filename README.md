@@ -37,7 +37,7 @@
 - **Corvus ROM** | [Github](https://github.com/Corvus-AOSP)
 - **Cosmic OS** | [Github](https://github.com/Cosmic-OS) - [Web](https://cosmic-os.github.io/)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
-- **Cygnus ROM** | [Github](https://github.com/cygnus-rom)
+- **Cygnus ROM** | [Github](https://github.com/cygnus-rom) - [Web](https://cygnusos.com/)
 - **Cypher OS** | [Github](https://github.com/CypherOS)
 - **Derpfest** | [Github](https://github.com/DerpLab) - [Web](https://derpfest.org/)
 - **Descendant X** | [Github](https://github.com/Descendant) - [Web](https://descendant.me/)
