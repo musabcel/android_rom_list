@@ -125,7 +125,7 @@
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
 - **TenXOS** | [Github](https://github.com/TenX-OS)
-- **Tequila OS** | [Github](https://github.com/tequilaOS)
+- **Tequila OS** | [Github](https://github.com/tequilaOS) - [Web](https://tequilaos.org/)
 - **The Kraken Project** | [Github](https://github.com/AOSPK)
 - **The Styx Project** | [Github](https://github.com/StyxProject) - [Web](https://styxproject.ml/)
 - **The XPerience Project** | [Github](https://github.com/TheXPerienceProject)
