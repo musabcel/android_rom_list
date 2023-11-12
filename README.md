@@ -108,6 +108,7 @@
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.xyz/)
 - **Project Streak** | [Github](https://github.com/ProjectStreak) - [Web](https://projectstreak.pl/)
 - **Project Titanium** | [Github](https://github.com/Project-Titanium)
+- **project Zephyrus** | [Github](https://github.com/Project-Zephyrus) - [Web](https://zephyrus-website.vercel.app/)
 - **Proton AOSP** | [Github](https://github.com/ProtonAOSP) [Web](https://protonaosp.org/)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
 - **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
