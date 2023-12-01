@@ -45,7 +45,7 @@
 - **Dirty Unicorns** | [Github](https://github.com/DirtyUnicorns) - [Web](https://dirtyunicorns.com/)
 - **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **Dot OS** | [Github](https://github.com/DotOS) - [Web](https://www.droidontime.com/)
-- **DroidX-UI** | [Github](https://github.com/DroidX-UI)
+- **DroidX-UI** | [Github](https://github.com/DroidX-UI) - [Web](https://droid-x-ui-github-io.vercel.app/) 
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
 - **ElytraOS** | [Github](https://github.com/elytraOS)
 - **Eternity OS** | [Github](https://github.com/EternityOS-Plus-Tiramisu)
