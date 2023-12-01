@@ -199,6 +199,7 @@
 - **Octavi OS** | [Web](https://downloads.octavi-os.com/?dir=GSI)
 - **Phh Treble** | [Web](https://github.com/phhusson/treble_experimentations/releases)
 - **Pixel Experience** | [Web](https://github.com/ponces/treble_build_pe/releases)
+- **Project Elixir** [Web](https://projectelixiros.com/device/gsi)
 
 <h1 align="center">
 <img src="https://github.com/musabcel/android_rom_list/blob/master/doc/recovery_header.png?raw=true" alt="stacks"/>
