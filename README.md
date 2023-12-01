@@ -190,6 +190,7 @@
 - **Google GSI A10** | [Web](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)
 - **Google GSI A11** | [Web](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)
 - **Google GSI A12** | [Web](https://developer.android.com/about/versions/12/gsi-release-notes#downloads)
+- **Google GSI A13** | [Web](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)
 - **GSI Tutorials - Updates** | [Telegram](https://t.me/gsitutorials)
 - **Havoc OS** | [Web](https://download.havoc-os.com/)
 - **LeOS** | [Web](https://leos-gsi.de/downloads/)
