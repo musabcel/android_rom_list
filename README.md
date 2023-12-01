@@ -118,6 +118,7 @@
 - **Rising Tech Open Source Software** | [Github](https://github.com/RisingTechOSS)
 - **RohieOS** | [Github](https://github.com/RohieOS)
 - **Scorpion ROM** | [Github]( https://github.com/ScorpionRom) - [Web]( https://scorpionrom.com/)
+- **SerasaOS** | [Github](https://github.com/SerasaOS)
 - **ShapeShift OS** | [Github]( https://github.com/ShapeShiftOS)
 - **SkyLineUI** | [Github](https://github.com/SkylineUI)
 - **SlimRoms** | [Github](https://github.com/slimroms) - [Web](https://slimroms.org/)
