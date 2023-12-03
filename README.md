@@ -115,7 +115,7 @@
 - **Resurrection Remix OS** | [Github](https://github.com/ResurrectionRemix) - [Web](https://resurrectionremix.com/)
 - **ResurrectionRemix-Revived** | [Github](https://github.com/ResurrectionRemix-Revived) - [Web](https://resurrectionremix.com/)
 - **Revenge OS** | [Github](https://github.com/RevengeOS) 
-- **Rising Tech Open Source Software** | [Github](https://github.com/RisingTechOSS)
+- **RisingOS** | [Github](https://github.com/RisingTechOSS)
 - **RohieOS** | [Github](https://github.com/RohieOS)
 - **Scorpion ROM** | [Github]( https://github.com/ScorpionRom) - [Web]( https://scorpionrom.com/)
 - **SerasaOS** | [Github](https://github.com/SerasaOS)
