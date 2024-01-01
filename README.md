@@ -66,6 +66,7 @@
 - **HyconOS** | [Github](https://github.com/HyconOS)
 - **Ion OS** | [Github](https://github.com/i-o-n) 
 - **IronOS Project** | [Github](https://github.com/IronOSProject)
+- **iodéOS** | [Gitlab](https://gitlab.com/iode/) - [Web](https://iode.tech/iodeos-en)
 - **Kang OS** | [Github](https://github.com/Kang-OS-R) 
 - **Komodo OS** | [Github](https://github.com/Komodo-OS) - [Web](https://komodo-os.my.id/)
 - **Krypton Open Source Project** | [Github](https://github.com/AOSP-Krypton)
