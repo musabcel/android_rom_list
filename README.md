@@ -105,7 +105,7 @@
 - **Project Kasumi** | [Github](https://github.com/ProjectKasumi)
 - **Project Lighthouse** | [Github](https://github.com/lighthouse-os) - [Web](https://lighthouse-os.tech/)
 - **Project Mushroom** | [Github](https://github.com/Project-Mushroom)
-- **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://projectmatrixx.github.io/)
+- **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://www.projectmatrixx.org/)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.xyz/)
 - **Project Streak** | [Github](https://github.com/ProjectStreak) - [Web](https://projectstreak.pl/)
