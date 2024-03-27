@@ -122,6 +122,7 @@
 - **Scorpion ROM** | [Github]( https://github.com/ScorpionRom) - [Web]( https://scorpionrom.com/)
 - **SerasaOS** | [Github](https://github.com/SerasaOS)
 - **ShapeShift OS** | [Github]( https://github.com/ShapeShiftOS)
+- **SigmaDroid** | [Github](https://github.com/SigmaDroid-Project) - [Web](https://sigmadroid.xyz/)
 - **SkyLineUI** | [Github](https://github.com/SkylineUI)
 - **SlimRoms** | [Github](https://github.com/slimroms) - [Web](https://slimroms.org/)
 - **SoniUI** | [Github](https://github.com/XOSP-Reborn)
