@@ -124,6 +124,7 @@
 - **ShapeShift OS** | [Github]( https://github.com/ShapeShiftOS)
 - **SkyLineUI** | [Github](https://github.com/SkylineUI)
 - **SlimRoms** | [Github](https://github.com/slimroms) - [Web](https://slimroms.org/)
+- **SomethingOS** | [Github](https://github.com/SomethingOS)
 - **SoniUI** | [Github](https://github.com/XOSP-Reborn)
 - **SparkOS** | [Github](https://github.com/Spark-Rom) - [Web](https://www.spark-os.live/)
 - **Spice OS** | [Github](https://github.com/SpiceOS)
