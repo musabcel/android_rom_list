@@ -87,6 +87,7 @@
 - **Nusantara Project** | [Github](https://github.com/Nusantara-ROM) - [Web](https://nusantararom.org/)
 - **Octavi OS** | [Github](https://github.com/Octavi-Staging)
 - **Omni ROM** | [Github](https://github.com/omnirom) - [Web](https://omnirom.org/)
+- **OrionOS** | [Github](https://github.com/OrionOS-prjkt)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
 - **PhoenixAOSP** | [Github](https://github.com/PhoenixAOSP)
