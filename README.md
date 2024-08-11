@@ -2,6 +2,7 @@
 <img src="https://github.com/musabcel/android_rom_list/blob/master/doc/android_header.png?raw=true" alt="stacks"/>
 </h1>
 
+- **Advanced XPerience OS** | [Github](https://github.com/AXP-OS)
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
 - **AlphaDroid** | [Github](https://github.com/AlphaDroid-Project)
@@ -86,6 +87,7 @@
 - **Nusantara Project** | [Github](https://github.com/Nusantara-ROM) - [Web](https://nusantararom.org/)
 - **Octavi OS** | [Github](https://github.com/Octavi-Staging)
 - **Omni ROM** | [Github](https://github.com/omnirom) - [Web](https://omnirom.org/)
+- **OrionOS** | [Github](https://github.com/OrionOS-prjkt)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
 - **PhoenixAOSP** | [Github](https://github.com/PhoenixAOSP)
@@ -102,6 +104,7 @@
 - **Project Awaken** | [Github](https://github.com/Project-Awaken) - [Web](https://awakenos.vercel.app/)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze) - [Web](https://www.projectblaze.in/)
 - **Project Elixir** | [Github](https://github.com/Project-Elixir) - [Web](https://projectelixiros.com/home)
+- **ProjectEverest** | [Github](https://github.com/ProjectEverest)
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Kasumi** | [Github](https://github.com/ProjectKasumi)
 - **Project Lighthouse** | [Github](https://github.com/lighthouse-os) - [Web](https://lighthouse-os.tech/)
