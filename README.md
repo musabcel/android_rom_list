@@ -75,6 +75,7 @@
 - **GenesisOS** | [Github](https://github.com/GenesisOS)
 - **GhostOS** | [Github](https://github.com/Ghost-OS-AOSP)
 - **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/)
+- **GXCUI** | [Github](https://github.com/GXCUI-AOSP)
 - **Halcyon** | [Github](https://github.com/halcyonproject)
 - **Halogen OS** | [Github](https://github.com/halogenOS) - [Web](https://halogenos.org/)
 - **Havoc OS** | [Github](https://github.com/Havoc-OS) - [Web](https://havoc-os.com/)
