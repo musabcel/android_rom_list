@@ -61,7 +61,6 @@
 - **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://www.projectmatrixx.org/)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.me/)
-- **Project Streak** | [Github]
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
 - **RisingOS** | [Github](https://github.com/RisingTechOSS)
 - **SerasaOS** | [Github](https://github.com/SerasaOS)
