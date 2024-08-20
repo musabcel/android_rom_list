@@ -21,7 +21,7 @@
 - **Corvus ROM** | [Github](https://github.com/Corvus-AOSP)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
 - **Cygnus ROM** | [Github](https://github.com/cygnus-rom) - [Web](https://cygnusos.com/)
-- **Derpfest** | [Github](https://github.com/DerpLab) - [Web](https://derpfest.org/)
+- **Derpfest** | [Github](https://github.com/DerpFest-AOSP) - [Web](https://derpfest.org/)
 - **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
 - **ElytraOS** | [Github](https://github.com/elytraOS)
