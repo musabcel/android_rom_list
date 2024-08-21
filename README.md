@@ -34,7 +34,6 @@
 - **OrionOS** | [Github](https://github.com/OrionOS-prjkt)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
-- **Pixel Dust** | [Github](https://github.com/PixelDust-Project-X)
 - **Pixel Project** | [Github](https://github.com/The-Pixel-Project)
 - **PixelPlusUI** | [Github](https://github.com/PixelPlusUI-Elle) - [Web](https://ppui.site/)
 - **PixelOS** | [Github](https://github.com/PixelOS-AOSP) - [Web](https://pixelos.net/)
