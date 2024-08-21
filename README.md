@@ -37,7 +37,6 @@
 - **Pixel Project** | [Github](https://github.com/The-Pixel-Project)
 - **PixelOS** | [Github](https://github.com/PixelOS-AOSP) - [Web](https://pixelos.net/)
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
-- **Project Awaken** | [Github](https://github.com/Project-Awaken) - [Web](https://awakenos.vercel.app/)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze) - [Web](https://www.projectblaze.in/)
 - **ProjectEverest** | [Github](https://github.com/ProjectEverest)
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
