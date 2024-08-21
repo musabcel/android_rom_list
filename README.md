@@ -6,7 +6,6 @@
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AlphaDroid** | [Github](https://github.com/AlphaDroid-Project)
 - **AmogOS Rom** | [Github](https://github.com/AmogOS-Rom)
-- **Ancient OS** | [Github](https://github.com/Ancient-Lab) - [Web](https://ancientrom.xyz)
 - **AOSDP** | [Github](https://github.com/AOSDP) 
 - **BaikalOS** | [Github](https://github.com/baikalos)
 - **Bianca Project** | [Github](https://github.com/BiancaProject)
