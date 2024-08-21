@@ -11,7 +11,6 @@
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
 - **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
-- **Corvus ROM** | [Github](https://github.com/Corvus-AOSP)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
 - **Cygnus ROM** | [Github](https://github.com/cygnus-rom) - [Web](https://cygnusos.com/)
 - **Derpfest** | [Github](https://github.com/DerpFest-AOSP) - [Web](https://derpfest.org/)
