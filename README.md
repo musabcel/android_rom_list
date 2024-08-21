@@ -52,7 +52,6 @@
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
-- **Tequila OS** | [Github](https://github.com/tequilaOS) - [Web](https://tequilaos.org/)
 - **The XPerience Project** | [Github](https://github.com/TheXPerienceProject)
 - **UlimateOS** | [Github](https://github.com/UltimateOS)
 - **Voltage OS** | [Github](https://github.com/VoltageOS)
