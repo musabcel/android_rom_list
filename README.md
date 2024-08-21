@@ -6,7 +6,6 @@
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AlphaDroid** | [Github](https://github.com/AlphaDroid-Project)
 - **AmogOS Rom** | [Github](https://github.com/AmogOS-Rom)
-- **Bianca Project** | [Github](https://github.com/BiancaProject)
 - **Black Iron Project** | [Github](https://github.com/Black-Iron-Project)
 - **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
 - **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://bootleggersrom.github.io/)
