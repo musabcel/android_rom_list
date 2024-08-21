@@ -8,7 +8,6 @@
 - **AmogOS Rom** | [Github](https://github.com/AmogOS-Rom)
 - **Black Iron Project** | [Github](https://github.com/Black-Iron-Project)
 - **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
-- **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://bootleggersrom.github.io/)
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
 - **Carbon ROM** | [Github](https://github.com/CarbonROM) - [Web](https://carbonrom.org/)
 - **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/)
