@@ -47,7 +47,6 @@
 - **RisingOS** | [Github](https://github.com/RisingTechOSS)
 - **SerasaOS** | [Github](https://github.com/SerasaOS)
 - **SigmaDroid** | [Github](https://github.com/SigmaDroid-Project) - [Web](https://sigmadroid.xyz/)
-- **SkyLineUI** | [Github](https://github.com/SkylineUI)
 - **SomethingOS** | [Github](https://github.com/SomethingOS)
 - **Stag OS** | [Github](https://github.com/StagOS) - [Web](https://stag-os.org/)
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
