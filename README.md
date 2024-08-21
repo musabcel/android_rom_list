@@ -15,7 +15,6 @@
 - **Derpfest** | [Github](https://github.com/DerpFest-AOSP) - [Web](https://derpfest.org/)
 - **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
-- **ElytraOS** | [Github](https://github.com/elytraOS)
 - **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/)
 - **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/)
 - **Fork LineageOS** | [Github](https://github.com/ForkLineageOS)
