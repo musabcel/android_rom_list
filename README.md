@@ -28,7 +28,6 @@
 - **Lineage OS** | [Github](https://github.com/LineageOS) - [Web](https://lineageos.org/)
 - **LMODroid** | [Github](https://github.com/LMODroid) - [Web](https://lmo.framer.website/lmodroid)
 - **Miku UI** | [Github](https://github.com/Miku-UI)
-- **MoKee ROM** | [Github](https://github.com/MoKee) - [Web](https://www.mokeedev.com/en/)
 - **Nethunter OS** | [Gitlab](https://gitlab.com/kalilinux/nethunter) - [Web](https://www.kali.org/docs/nethunter/)
 - **Nitrogen OS** | [Github](https://github.com/nitrogen-project)
 - **Nusantara Project** | [Github](https://github.com/Nusantara-ROM) - [Web](https://nusantararom.org/)
