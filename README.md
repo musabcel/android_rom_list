@@ -21,6 +21,7 @@
 - **Halcyon Project** | [Github](https://github.com/halcyonproject) - [Web](https://hlcyn.co/)
 - **Halogen OS** | [Github](https://github.com/halogenOS) - [Web](https://halogenos.org/)
 - **HentaiOS** | [Github](https://github.com/hentaiOS) - [Web](https://downloads.hentaios.com/)
+- **Infinity X** | [Github](https://github.com/ProjectInfinity-X)
 - **iodéOS** | [Gitlab](https://gitlab.com/iode/) - [Web](https://iode.tech/iodeos-en)
 - **Komodo OS** | [Github](https://github.com/Komodo-OS) - [Web](https://komodo-os.my.id/)
 - **LeafOS** | [Github](https://github.com/LeafOS-Project) - [Web](https://leafos.org/)
