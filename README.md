@@ -16,7 +16,6 @@
 - **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
 - **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/)
-- **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/)
 - **Fork LineageOS** | [Github](https://github.com/ForkLineageOS)
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
 - **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/)
