@@ -12,7 +12,6 @@
 - **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
-- **Cygnus ROM** | [Github](https://github.com/cygnus-rom) - [Web](https://cygnusos.com/)
 - **Derpfest** | [Github](https://github.com/DerpFest-AOSP) - [Web](https://derpfest.org/)
 - **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
