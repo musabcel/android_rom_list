@@ -30,7 +30,6 @@
 - **Miku UI** | [Github](https://github.com/Miku-UI)
 - **Nethunter OS** | [Gitlab](https://gitlab.com/kalilinux/nethunter) - [Web](https://www.kali.org/docs/nethunter/)
 - **Nitrogen OS** | [Github](https://github.com/nitrogen-project)
-- **Nusantara Project** | [Github](https://github.com/Nusantara-ROM) - [Web](https://nusantararom.org/)
 - **Omni ROM** | [Github](https://github.com/omnirom) - [Web](https://omnirom.org/)
 - **OrionOS** | [Github](https://github.com/OrionOS-prjkt)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
