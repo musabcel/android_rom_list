@@ -9,7 +9,6 @@
 - **Black Iron Project** | [Github](https://github.com/Black-Iron-Project)
 - **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
-- **Carbon ROM** | [Github](https://github.com/CarbonROM) - [Web](https://carbonrom.org/)
 - **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
 - **Colt OS** | [Github](https://github.com/Colt-Enigma) 
