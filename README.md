@@ -39,7 +39,7 @@
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze) - [Web](https://www.projectblaze.in/)
 - **ProjectEverest** | [Github](https://github.com/ProjectEverest)
-- ** Project Infinity X ** | [Github](https://github.com/ProjectInfinity-X)
+- **Project Infinity X** | [Github](https://github.com/ProjectInfinity-X)
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://www.projectmatrixx.org/)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
