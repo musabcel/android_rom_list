@@ -35,6 +35,7 @@
 - **HentaiOS** | [Github](https://github.com/hentaiOS) - [Web](https://downloads.hentaios.com/)
 - **iodéOS** | [Gitlab](https://gitlab.com/iode/) - [Web](https://iode.tech/iodeos-en)
 - **Komodo OS** | [Github](https://github.com/Komodo-OS) - [Web](https://komodo-os.my.id/)
+- **LeafOS** | [Github](https://github.com/LeafOS-Project) - [Web](https://leafos.org/)
 - **LightningFastRom** | [Github](https://github.com/lightningfastrom)
 - **Lineage OS** | [Github](https://github.com/LineageOS) - [Web](https://lineageos.org/)
 - **LLuvia OS** | [Github](https://github.com/LLuviaOS)
