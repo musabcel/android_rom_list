@@ -35,7 +35,6 @@
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
 - **Pixel Project** | [Github](https://github.com/The-Pixel-Project)
-- **PixelPlusUI** | [Github](https://github.com/PixelPlusUI-Elle) - [Web](https://ppui.site/)
 - **PixelOS** | [Github](https://github.com/PixelOS-AOSP) - [Web](https://pixelos.net/)
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
 - **Project Awaken** | [Github](https://github.com/Project-Awaken) - [Web](https://awakenos.vercel.app/)
