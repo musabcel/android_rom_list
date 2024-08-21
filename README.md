@@ -26,7 +26,6 @@
 - **LeafOS** | [Github](https://github.com/LeafOS-Project) - [Web](https://leafos.org/)
 - **LightningFastRom** | [Github](https://github.com/lightningfastrom)
 - **Lineage OS** | [Github](https://github.com/LineageOS) - [Web](https://lineageos.org/)
-- **LLuvia OS** | [Github](https://github.com/LLuviaOS)
 - **LMODroid** | [Github](https://github.com/LMODroid) - [Web](https://lmo.framer.website/lmodroid)
 - **Miku UI** | [Github](https://github.com/Miku-UI)
 - **MoKee ROM** | [Github](https://github.com/MoKee) - [Web](https://www.mokeedev.com/en/)
