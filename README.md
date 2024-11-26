@@ -51,6 +51,7 @@
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
 - **ElytraOS** | [Github](https://github.com/elytraOS)
 - **Eternity OS** | [Github](https://github.com/EternityOS-Plus-Tiramisu)
+- **Ethereal OS** | [Github](https://github.com/orgs/Ethereal-OS)
 - **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/)
 - **ExTHmUI** | [Github](https://github.com/exthmui) - [Web](https://exthmui.cn/)
 - **FireHound** | [Github](https://github.com/FireHound) - [Web](https://firehound.github.io/)
