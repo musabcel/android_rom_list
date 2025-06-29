@@ -108,6 +108,7 @@
 - **Project Awaken** | [Github](https://github.com/Project-Awaken) - [Web](https://awakenos.vercel.app/)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze) - [Web](https://www.projectblaze.in/)
 - **Project Elixir** | [Github](https://github.com/Project-Elixir) - [Web](https://projectelixiros.com/home)
+- **Project InfinityX** | [Github](https://github.com/ProjectInfinity-X) - [Web](http://projectinfinity-x.com)     
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Kasumi** | [Github](https://github.com/ProjectKasumi)
 - **Project Lighthouse** | [Github](https://github.com/lighthouse-os) - [Web](https://lighthouse-os.tech/)
